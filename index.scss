@@ -1,0 +1,40 @@
+@import "./_CSSReset";
+
+.container{
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.wrapper{
+    display: flex;
+}
+
+li{
+    margin-right: 20px;
+    margin-bottom: 24px;
+    img{
+        margin-right: 20px;
+    }
+}
+.text_wrapper{
+    max-width: 288px;
+}
+
+.title{
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.text{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.pic216{
+    height: 216px;
+}
+
+footer{
+    font-size: 16px;
+    line-height: 0.1h 5;
+}
