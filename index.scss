@@ -1,22 +1,22 @@
 @import "./_CSSReset";
 
+@import "./_CSSReset";
+
 .container{
     max-width: 640px;
     margin: 0 auto;
 }
 
-.wrapper{
+.flex{
     display: flex;
 }
 
-li{
+.mr20{
     margin-right: 20px;
+}
+
+.item{
     margin-bottom: 24px;
-    display: flex;
-}
-
-.pic96{
-    margin-right: 20px;
 }
 
 .text_wrapper{
@@ -35,9 +35,4 @@ li{
 
 .pic216{
     height: 216px;
-}
-
-footer{
-    font-size: 16px;
-    line-height: 0.1h 5;
 }
