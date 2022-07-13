@@ -109,6 +109,7 @@ table {
 .container {
   max-width: 640px;
   margin: 0 auto;
+  line-height: 1.5;
 }
 
 .flex {
@@ -136,10 +137,15 @@ table {
 
 .text {
   font-size: 16px;
-  line-height: 1.5;
 }
 
 .pic216 {
   height: 216px;
+}
+
+footer .text {
+  padding-top: 48px;
+  padding-bottom: 48px;
+  text-align: center;
 }
 /*# sourceMappingURL=index.css.map */
